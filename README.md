@@ -15,6 +15,10 @@ Amaç, aynı konu için üretilen `standart` ve `öz türkçe` sürümleri karş
 - İstatistiksel testler (`Wilcoxon`, `paired t-test`)
 - Makale yazımına uygun çıktı dosyaları ve özet tablolar
 
+## Akış Diyagramı
+
+![Proje akış diyagramı](results/mermaid-diagram(2).png)
+
 ## Sonuç Görselleri
 
 ### Ortalama AI skoru karşılaştırması
@@ -128,6 +132,6 @@ python scripts/make_readme_assets.py
 python src/generate.py --local --model llama3.2 --append
 ```
 
-## Kaynak Repo
 
-GitHub deposu: [busraminal/Oz_Turkce_Tespiti](https://github.com/busraminal/Oz_Turkce_Tespiti)
+
+

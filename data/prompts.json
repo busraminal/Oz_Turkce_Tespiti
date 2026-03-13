@@ -1,0 +1,122 @@
+[
+  {
+    "id": "dil_devrimi",
+    "konu": "Dil devrimi",
+    "prompt_standart": "Dil devriminin Türkiye'deki eğitim sistemine etkilerini anlatan kısa bir paragraf yaz (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: Dil devriminin Türkiye'deki eğitim sistemine etkileri. Ancak yalnızca Öz Türkçe (arı Türkçe) kelimeler kullan; Arapça, Farsça veya Batı kökenli kelimelerden kaçın. 150-200 kelime."
+  },
+  {
+    "id": "ekonomi",
+    "konu": "Ekonomi",
+    "prompt_standart": "Enflasyonun günlük yaşama etkilerini anlatan kısa bir ekonomi yazısı yaz (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: Enflasyonun günlük yaşama etkileri. Sadece Öz Türkçe kelimeler kullanarak yaz; yabancı kökenli sözcükler kullanma. 150-200 kelime."
+  },
+  {
+    "id": "egitim",
+    "konu": "Eğitim",
+    "prompt_standart": "Uzaktan eğitimin avantaj ve dezavantajlarını kısaca anlatan bir paragraf yaz (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: Uzaktan eğitimin avantaj ve dezavantajları. Yalnızca Öz Türkçe (arı dil) kullan; Arapça, Farsça ve Batı dillerinden gelen kelimeleri kullanma. 150-200 kelime."
+  },
+  {
+    "id": "teknoloji",
+    "konu": "Teknoloji",
+    "prompt_standart": "Yapay zekânın iş dünyasında kullanımı hakkında kısa bir metin yaz (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: Yapay zekânın iş dünyasında kullanımı. Sadece Öz Türkçe kelimelerle yaz; yabancı kökenli kelimelerden kaçın. 150-200 kelime."
+  },
+  {
+    "id": "saglik",
+    "konu": "Sağlık",
+    "prompt_standart": "Düzenli spor yapmanın sağlığa faydalarını anlatan kısa bir paragraf yaz (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: Düzenli spor yapmanın sağlığa faydaları. Öz Türkçe (arı Türkçe) kullan; Arapça, Farsça veya Batı kökenli sözcük kullanma. 150-200 kelime."
+  },
+  {
+    "id": "cevre",
+    "konu": "Çevre",
+    "prompt_standart": "İklim değişikliğinin tarım ve su kaynaklarına etkisini anlatan kısa bir paragraf yaz (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: İklim değişikliğinin tarım ve su kaynaklarına etkisi. Yalnızca Öz Türkçe kelimeler kullan; Arapça, Farsça veya Batı kökenli kelime kullanma. 150-200 kelime."
+  },
+  {
+    "id": "kultur",
+    "konu": "Kültür",
+    "prompt_standart": "Geleneksel ve modern kültürün bir arada yaşamasının topluma etkilerini kısaca anlat (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: Geleneksel ve modern kültürün bir arada yaşamasının topluma etkileri. Sadece Öz Türkçe (arı dil) kullan; yabancı kökenli sözcük kullanma. 150-200 kelime."
+  },
+  {
+    "id": "medya",
+    "konu": "Medya",
+    "prompt_standart": "Sosyal medyanın haber tüketim alışkanlıklarını nasıl değiştirdiğini anlatan kısa bir metin yaz (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: Sosyal medyanın haber tüketim alışkanlıklarını nasıl değiştirdiği. Öz Türkçe kelimelerle yaz; Arapça, Farsça veya Batı kökenli kelimelerden kaçın. 150-200 kelime."
+  },
+  {
+    "id": "tarih",
+    "konu": "Tarih",
+    "prompt_standart": "Cumhuriyetin ilk yıllarında eğitim ve kültür politikalarının topluma yansımasını kısaca anlat (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: Cumhuriyetin ilk yıllarında eğitim ve kültür politikalarının topluma yansıması. Yalnızca Öz Türkçe kullan; yabancı kökenli sözcük kullanma. 150-200 kelime."
+  },
+  {
+    "id": "bilim",
+    "konu": "Bilim",
+    "prompt_standart": "Bilimsel araştırmanın toplum için neden önemli olduğunu anlatan kısa bir paragraf yaz (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: Bilimsel araştırmanın toplum için neden önemli olduğu. Sadece Öz Türkçe (arı Türkçe) kelimelerle yaz; Arapça, Farsça veya Batı kökenli kelimelerden kaçın. 150-200 kelime."
+  },
+  {
+    "id": "edebiyat",
+    "konu": "Edebiyat",
+    "prompt_standart": "Türk edebiyatında dil ve üslup çeşitliliğinin okura etkisini kısaca anlat (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: Türk edebiyatında dil ve üslup çeşitliliğinin okura etkisi. Öz Türkçe kelimeler kullan; yabancı kökenli sözcük kullanma. 150-200 kelime."
+  },
+  {
+    "id": "toplum",
+    "konu": "Toplum",
+    "prompt_standart": "Kentleşmenin aile yapısı ve komşuluk ilişkilerine etkisini anlatan kısa bir paragraf yaz (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: Kentleşmenin aile yapısı ve komşuluk ilişkilerine etkisi. Yalnızca Öz Türkçe (arı dil) kullan; Arapça, Farsça veya Batı kökenli kelimelerden kaçın. 150-200 kelime."
+  },
+  {
+    "id": "hukuk",
+    "konu": "Hukuk / politika",
+    "prompt_standart": "Vatandaşlık bilincinin demokrasi için neden gerekli olduğunu kısaca anlat (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: Vatandaşlık bilincinin demokrasi için neden gerekli olduğu. Sadece Öz Türkçe kelimelerle yaz; yabancı kökenli sözcük kullanma. 150-200 kelime."
+  },
+  {
+    "id": "is_dunyasi",
+    "konu": "İş dünyası",
+    "prompt_standart": "Küçük işletmelerin yerel ekonomiye katkısını anlatan kısa bir metin yaz (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: Küçük işletmelerin yerel ekonomiye katkısı. Öz Türkçe (arı Türkçe) kullan; Arapça, Farsça veya Batı kökenli kelime kullanma. 150-200 kelime."
+  },
+  {
+    "id": "spor",
+    "konu": "Spor",
+    "prompt_standart": "Takım sporlarının bireylere sağladığı sosyal ve psikolojik faydaları anlatan kısa bir paragraf yaz (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: Takım sporlarının bireylere sağladığı sosyal ve psikolojik faydalar. Yalnızca Öz Türkçe kullan; yabancı kökenli sözcük kullanma. 150-200 kelime."
+  },
+  {
+    "id": "sanat",
+    "konu": "Sanat",
+    "prompt_standart": "Görsel sanatların toplumda iletişim ve ifade aracı olarak işlevini kısaca anlat (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: Görsel sanatların toplumda iletişim ve ifade aracı olarak işlevi. Sadece Öz Türkçe (arı dil) kullan; Arapça, Farsça veya Batı kökenli kelimelerden kaçın. 150-200 kelime."
+  },
+  {
+    "id": "ulasim",
+    "konu": "Ulaşım",
+    "prompt_standart": "Toplu taşımanın kent yaşamı ve çevre açısından avantajlarını anlatan kısa bir metin yaz (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: Toplu taşımanın kent yaşamı ve çevre açısından avantajları. Öz Türkçe kelimelerle yaz; yabancı kökenli sözcük kullanma. 150-200 kelime."
+  },
+  {
+    "id": "gida",
+    "konu": "Gıda ve beslenme",
+    "prompt_standart": "Yerel ve mevsimsel ürünlerle beslenmenin sağlık ve ekonomiye etkilerini kısaca anlat (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: Yerel ve mevsimsel ürünlerle beslenmenin sağlık ve ekonomiye etkileri. Yalnızca Öz Türkçe (arı Türkçe) kullan; Arapça, Farsça veya Batı kökenli kelime kullanma. 150-200 kelime."
+  },
+  {
+    "id": "genclik",
+    "konu": "Gençlik",
+    "prompt_standart": "Gençlerin dijital dünyada karşılaştığı fırsatlar ve riskleri anlatan kısa bir paragraf yaz (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: Gençlerin dijital dünyada karşılaştığı fırsatlar ve riskler. Sadece Öz Türkçe kelimeler kullan; yabancı kökenli sözcük kullanma. 150-200 kelime."
+  },
+  {
+    "id": "turizm",
+    "konu": "Turizm",
+    "prompt_standart": "Kültür turizminin yerel topluluklara ve tarih bilincine etkisini anlatan kısa bir paragraf yaz (150-200 kelime).",
+    "prompt_oz_turkce": "Aynı konuyu anlat: Kültür turizminin yerel topluluklara ve tarih bilincine etkisi. Yalnızca Öz Türkçe (arı dil) kullan; Arapça, Farsça veya Batı kökenli kelime kullanma. 150-200 kelime."
+  }
+]

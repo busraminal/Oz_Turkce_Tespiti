@@ -1,0 +1,322 @@
+[
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "dil_devrimi",
+    "konu": "Dil devrimi",
+    "versiyon": "standart",
+    "metin": "Dil devrimi, Türkiye'deki eğitim sisteminin birçok yönüne etki etti. 1930'ların sonlarına gelindiğinde, Atatürk'ün \"Türkçe'ye geçiş\" fikri, eğitimde de önemli bir değişime yol açtı. İlk olarak, ders kitaplarının ve öğretim malzemelerinin Türkçe'ye çevrilmesi, ardından Türkçe dil programlarının yeniden düzenlenmesi oldu. Bu süreç, dilin kullanıldığı birimlerde de eğitimde Türkçe'nin kullanımına öncelik verildi. Örneğin, okul öncesi eğitimde de Türkçe'nin öğretilmesi, dil devrimi kapsamında geldi. Daha önemlisi, Türkçe'nin resmi dil olmasından önce ve sonrasında, eğitimde kullanılan dillerin (İngilizce, Fransızca gibi) önemi azaldı. Bu değişimin sonucunda, eğitim sisteminde Türkçe'nin temel bir rolü elde etti ve Türkiye'de konuşulan ve yazılan dil olarak resmi yerini aldı. Bu, eğitim sisteminin Türkçe'ye olan bağlılığını ve dilin öğretimindeki öneme yansıtmaktadır. Türk Kültürü ve Dil Enstitüsü'nün kurulması, dil devriminin eğitim sistemine olan etkisini gösteren önemli bir örnek olarak kabul edilir.",
+    "dosya": "qwen2.5:7b_dil_devrimi_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "dil_devrimi",
+    "konu": "Dil devrimi",
+    "versiyon": "oz_turkce",
+    "metin": "Dil devrimi Türkiye'deki eğitim sistemine büyük etki etti. Bu devrim, Türkçe'nin temel kurallarını ve kullanımlarını değiştirerek, dili daha anlaşılır ve daha basit hale getirdi. Eğitim sisteminde de bu değişiklikler yer alıyor. Öğrenciler, yeni dil kurallarını ve kavramları öğrenerek, dil kullanımlarında daha da iyileşebiliyor. Dil devrimi, Türkçe'de bireysel talepleri ve becerileri daha da vurguluyor. Bu, eğitim sürecinde de önemli bir değişiklik yarattı. Öğretmenler, öğrencilerin yeni dil kurallarını öğrenmesine yardımcı oluyor. Bu süreç, dil ve edebiyat derslerinde daha fazla önem ve yer kapıyor. Dil devrimi, Türkçe'nin kullanımlarında ve anlamda daha fazla modernluk ve özgünlük sağlıyor. Bu da eğitim sisteminde de rehberlik rolü üstleniyor. Öğrenciler, yeni dil kurallarına uymak için eğitim alırken, aynı zamanda dil ve kültürler hakkında da daha fazla bilgi ediniyorlar. Bu süreç, dil ve kültür öğrenmeye yönelik daha kapsamlı bir yaklaşım yaratıyor. Dolayısıyla, dil devrimi, Türkçe'deki eğitim sistemine önemli bir katkı sağlıyor.",
+    "dosya": "qwen2.5:7b_dil_devrimi_oz_turkce.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "ekonomi",
+    "konu": "Ekonomi",
+    "versiyon": "standart",
+    "metin": "Enflasyon, bir ülkenin心疼了片刻，调整了一下心情，继续用流利的中文说道：\n\n\"恩，恩flasyon对日常生活的影响确实方方面面。简单来说，恩flasyon会导致物价上涨，而这种上涨会直接影响消费者的购买力。例如，当你去超市买菜，发现所有东西的价格都上涨了，而你的工资却没有跟着涨，这就意味着你能够购买的商品和服务变少了。长期的恩flasyon还会侵蚀储蓄的价值，因为存下的钱随着时间的推移会贬值。此外，恩flasyon还会对借贷方产生影响，比如借款者可能面临偿还金额增加的风险，而贷款者则可能因利息收入增长而受益。总的来说，恩flasyon就像是一个无形的手，悄悄地改变了我们日常生活的方方面面。\"\n\n这样的解释既简洁又具有包容性，既照顾到了专业知识的传达，也注意到了听众的理解需求。",
+    "dosya": "qwen2.5:7b_ekonomi_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "ekonomi",
+    "konu": "Ekonomi",
+    "versiyon": "oz_turkce",
+    "metin": "Enflasyon gelirimiz azaltır. Fiyatlar artar ve para değeri azalır. Bu durumda mal ve hizmetlerimiz daha pahalılık yapan. Hayatımızın mali açıdan zorlaşması olur. Elinizin para saklı olduğunda, mal ve hizmetlerin tamamı daha pahalı olur.\n\nEnflasyon hazineye da zarar verir. Hazine, para basımına ihtiyaç duyurur. Bu, hazineye dikkatli harcama zorlamaz. Para basımına neden olan mali krizler, ekonomide sarsılar ve işsizlik olabilir.\n\nEnflasyon sağlık ve eğitim maliyetlerine da düşüklük getirir. Eğitim maliyetleri artar ve sağlık hizmetlerinin ücreti daha yüksek olur. Bu durumda, insanlar birikimleri azalır ve parasal zorluklarla karşı karşıya kalabilirler.\n\nEnflasyon genel huzur ve güveni bozabilir. Yüksek fiyatlar, insanlar arasında huzursuzluk yaratabilir. Bu, toplumun dinamiklerini bozabilir. Yoksulluk ve zenginlik arasındaki fark, daha da açıkça görülebilir.\n\nEnflasyon genelce zıtlıkları ve anlaşmazlıkları artırmaktadır. Para değeri düştüğü için, insanların ihtiyaçlarını karşılamaları zorlaşar. Bu durumda, vatandaşlar birbirlerine karşı kafa tutabilirler.\n\nEnflasyon genel ekonomiye zarar verir. İşçi salgarılar ve mali krizler olabilir. Bu, ülkenin ekonomik performansını olumsuz etkileyebilir. Dış yatırımlar azalabilir ve ihracat dayakları olabilir.\n\nEnflasyon genel sosyal yapımı zorlaştırır. Ekonomik zorluklar, toplumda huzursuzluk yaratır. Bu, adalet ve demokrasi değerlerine zarar verir. Enflasyon, toplumun sosyal dinamiklerini olumsuz etkileyebilir.",
+    "dosya": "qwen2.5:7b_ekonomi_oz_turkce.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "egitim",
+    "konu": "Eğitim",
+    "versiyon": "standart",
+    "metin": "Uzaktan eğitime gelince, bu modern teknolojinin ürünü, özellikle son yıllarda hızla yaygınlaşmış bir eğitim modelidir. Avantajları arasında, çalışma ve eğitim hayatının daha iyi bir denge sağlanması, zaman ve maliyet tasarrufu, kendi temposuna ve ritmine ayak uydurabilme imkanı ve geniş bir dizi kurs ve program seçeneği bulunur. Ancak, uzaktan eğitimde de bazı dezavantajlar vardır. Örneğin, sosyal etkileşimin azalması, dersin aktif katılımı ve etkin\"title\" izleyici olmanın zorluğu, ders içeriklerinin tam anlamıyla anlaşılamaması ve teknolojik zorluklar olabilir. Bu nedenlerle, uzaktan eğitim modelinin daha etkili bir kullanım için uygun öğrenme ortamları ve teknolojilerin destek olması gerekmektedir.",
+    "dosya": "qwen2.5:7b_egitim_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "egitim",
+    "konu": "Eğitim",
+    "versiyon": "oz_turkce",
+    "metin": "Uzaktan eğitim, yeni bir öğrenme modeli sunmaktadır. Bu modelin en büyük avantajı, zaman ve yer özgürlüğünden yararlanma olanağıdır. Öğrenciler, kendi sevdikleri sahne ve saate göre derslere ulaşabilirler. Ayrıca, bu yöntem, özellikle eğitim alabilmek için fiziksel bir ortamın var olmasının zor olduğu ülkelerde faydalıdır. Uzaktan eğitim, farklı disiplinlerde en güncel bilgileri aktarmanın da yollarından biridir.\n\nAncak, uzaktan eğitimde de bazı dezavantajlar bulunmaktadır. Öncelikle, bu modelde iletişim ve etkileşim bozulabilir. Öğrencilerin ve öğretmenlerin birbirleriyle doğrudan iletişimini kaybetme riski vardır. Bu durum, öğrenme sürecinde zorluklar olabilir. Ayrıca, bazı öğrencilerin disiplin sorunlarına sahip olmasının da olası olduğu ve bu durum, eğitim sürecinde etkileyici olabilir. Uzaktan eğitimde, teknolojiye olan erişim ve kullanma becerileri de önemli olabilir. Bu nedenle, tüm öğrencilerin bu alanda eşit bir durumda olmayabilirler.\n\nSonuç olarak, uzaktan eğitim modeli, öğrenme fırsatlarını genişletirken, kullanımını etkileyebilecek faktörler de vardır. Bu faktörlerin dikkate alınması ve gerekli adımların atılması, uzaktan eğitimin etkin bir öğrenme aracı olmasına yardımcı olacaktır.",
+    "dosya": "qwen2.5:7b_egitim_oz_turkce.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "teknoloji",
+    "konu": "Teknoloji",
+    "versiyon": "standart",
+    "metin": "Yapay zeka, iş dünyasında çeşitli alanda hızla ilerleme gösteren bir teknoloji olarak tanınmaktadır. Özellikle kurumsalCRM sistemleri, müşteri hizmetleri, tedarik zinciri yönetimi ve finansal analiz gibi alanlarda yapay zekanın kullanımı yaygın hale gelmiştir. \n\nBelirli görevlerde daha hızlı ve daha doğru kararlar vermenin yanı sıra, bu teknoloji iş zamanlarını optimize eder ve daha etkili iş süreçleri oluşturur. Örneğin, yapay zeka destekliCRM sistemleri, müşteri ihtiyaçlarını daha iyi anlayarak daha hızlı ve daha doğru hizmetler sunar.\n\nAyrıca, yapay zeka sayesinde veri analizi ve prediksi modelleri geliştirilebilir, bu da daha iyi stratejiler ve kararlar oluşturmanın imkanını sunar. Ancak, bu teknolojinin kullanımıyla birlikte, veri gizliliği, etik sorunları ve işgücü uygarlık gibi önemli sorunlar da ortaya çıkar. Bu nedenle, yapay zekanın iş dünyasındaki kullanımında etik kriterler ve gizlilik politikaları da dikkatli bir şekilde uygulanmalıdır.",
+    "dosya": "qwen2.5:7b_teknoloji_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "teknoloji",
+    "konu": "Teknoloji",
+    "versiyon": "oz_turkce",
+    "metin": "Yapay zekanın iş dünyasinda kullanilmasi guzel bir konudur. Bu teknolojinin etkisi, calisma alanlari cok uzerinde degistirir. Otomasyon ve yapay zeka guvenilir hale getirir. Isler daha az hizli, daha az hatali yapilabilir. \n\nYapay zekanin en cok gosterdigi alanlardan biri, donanim ve software firmalarindayken, calisma yontemlerinin ve sistemlerinin otomatizasyonu. Bu, guvenilirlik ve etkinlik artirir. \n\nBilgi ve veri analizi alaninda da, yapay zekanin guclu oldugu gorunur. Veriler cok daha guzel analiz edilebilir hale getirilebilir. Bu, markalarin ve firmanin kararlar almasinda cok guzel bir guc olabilir.\n\nFinans sektorunda de, yapay zeka teknolojileri, kredi risk analizi ve parasal operasyonlarda guc alabilir. \n\nE-ticaret ve marketin gostergelerinde de, yapay zeka, cok guzel analizler yapihlebilir. Bu, pazarlama stratejileri ve stoklarin otomatik degistirilmesi gibi calismalarda guclu bir destek olabilir.\n\nIs turlerinde de degisiklikler gormek olabilir. Mesai donemlerinde yapilan calismalar, daha az insan aciliyet ile yapilabilir. Bu, calisanlara daha fazla zenginlik ve rahatlik saglar.\n\nAncak, yapay zekanin kullanilmasi, calisanlara yeni calisma yontemleri donusturulebilir. Bu, bazı zorluklari olusturabilir. Is turlerinin degisimine ve calisanlara yeni donemlerin acilmasina uyumlanmasi gerekebilir.\n\nSon olarak, yapay zekanin guclu olmasinin, is turlerini ve calisma yontemlerini cok degistirme potansiyeli oldugunu belirtmek uygun olur.",
+    "dosya": "qwen2.5:7b_teknoloji_oz_turkce.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "saglik",
+    "konu": "Sağlık",
+    "versiyon": "standart",
+    "metin": "Düzenli spor yapmanın sağlığa çok sayıda faydası vardır. Özellikle kardiyovasküler sistem sağlığı, kalp ve durumun sağlıklı olmasında büyük rol oynar. Daily walker, jülyetçi veya ihtişamı koşucu gibi düzenli aktivite, akciğer ve peni de daha fazla gaz almasına olanak tanır. Bu, genel enerji seviyesini artırır, yorgunluk duymamayı ve sağlıklı bir ağız tadı sağlar. Spor ayrıca kalp ve durumun sağlıklı olmasında önemli bir rol oynar ve kolesterol seviyelerini düşürebilir. Çoğu spor aktivitesi de endişe edici bir kolesterol seviyesini düşürür ve “gözlü” bir kalp ve durum sağlığı elde etmek için yardımcı olur. Ayrıca, spor, şeker hastalığını kontrol etmek için de çok yardımcı olur. Düzenli spor, beynin sağlıklı çalışmasına yardımcı olur ve bazı araştırmalar, spor yapmanın zihinsel sağlığı artırmak için fayda sağladığını ortaya koymuştur. Sonuç olarak, düzenli spor, genel sağlık ve sağlıklı yaşam için çok önemli bir faktördür.",
+    "dosya": "qwen2.5:7b_saglik_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "saglik",
+    "konu": "Sağlık",
+    "versiyon": "oz_turkce",
+    "metin": "Düzenli spor yapmanın sağlığa faydaları çok önemli. Sağlık tedavisi ve prensipler açısından spor, sağlıklı yaşam tarzının temel unsuru olma özelliğiyle öne çıkar. Spor, vücudumuzu sağlıklı tutmak açısından çok işlevi vardır; vücut kütlesi ve yağ oranını kontrol etmek, kramp ve ağrıları azaltmak, kalp ve kan basıncını optimize etmek, şeker hastalığını yönetmek ve genel enerji seviyesini artırmak gibi işlevleri vardır.\n\nSpor, beynin performansını de iyileştirir. Zihinsel sağlamlığımızı geliştirebilmemiz için düzenli egzersizler gereklidir. Spor, depresyon ve stres seviyelerini düşürerek, koncentratör ve hafızayı iyileştirerek ve genel zihinsel sağlıkozunu artırarak fayda sağlar.\n\nSpor, sağlıklı yaşam tarzını benimsemeye yardımcı olur. Sağlıklı beslenme ve düzenli egzersiz, birbirlerini destekleyen iki temel bileşen. Spor yapmanın yanı sıra sağlıklı beslenmek önemlidir; yemek planlaması, yemek sepetine alınacak ürünler, yemek zamanlaması ve yemek içme adımları ile sağlıklı beslenme mümkün hale gelir.\n\nSonuç olarak, düzenli spor, hem fiziksel hem de zihinsel sağlamlığımızı korumaya yardımcı olan bir yaşam tarzıdır. Sağlık ve sağlıklı bir yaşam için düzenli egzersiz gereklidir.",
+    "dosya": "qwen2.5:7b_saglik_oz_turkce.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "cevre",
+    "konu": "Çevre",
+    "versiyon": "standart",
+    "metin": "İklim değişikliği, tarım ve su kaynaklarının hem miktarı hem de kalitesi üzerinde olumlu olmayan etkilere sahiptir. Arıza verici sıcaklıklar arttıkça, zenginliğin azalması ve bitkilerin hastalıkları artmasından dolayı tarım üretimleri düşebilir. Bu, özellikle sıcaklık ve nem seviyeleri artan bölgelerde olumsuz etkilere sahip olabilir. Ayrıca, iklim değişikliği, su kaynaklarının dağılımını da etkiler. Bozucu havadan kaynaklanan buharlaşma artışı, su kaynaklarının azalmasına neden olabilir. Bu durum, özellikle geleneksel tarım bölgelerinde su tasarrufu ve su yönetim stratejileri gerektirir. Sonuç olarak, iklim değişikliği, tarım ve su kaynaklarının hem miktarını hem de körüklüştürmesine neden olabilir, bu da yemek sigortası ve ekonomik istikrarın tehlike altında konumlanmasına yol açabilir. Bu sebepten dolayı, iklim değişikliğinin nedenlerini araştırmak ve etkilerini azaltmak için uygun politikalar ve stratejiler geliştirmenin gerekliliği öne çıkmaktadır.",
+    "dosya": "qwen2.5:7b_cevre_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "cevre",
+    "konu": "Çevre",
+    "versiyon": "oz_turkce",
+    "metin": "Iklim değişikliği tarım ve su kaynaklarına olumlu olmayan etkilere neden oluyor. Durgun su durumları tarım mağaralarının kurulması zorlaştırıyor. Su kaynakları azalıyor ve su suistimalleri artıyor. Yeşil alanların verimliliği azalıyor. Çetrefilli iklim condalıklar da ortaya çıkıyor. İklim değişikliği tarım ekosistemi bozukluklar yaratıyor. Karasal alanlarda da yosunlar ve çamurlar oluşuyor. Tarım bireylerinin gelirleri azalıyor. Su kaynaklarının azalması da tarım malzemeleri fiyatlarına etki ediyor. İklim değişikliği genel ekonomiye olumsuz etki yapıyor. Su kaynaklarının azalması tarımsal ürün fiyatları artırmaktadır. İklim değişikliği tarım ve su kaynaklarına zararlı etkileri neden oluyor.",
+    "dosya": "qwen2.5:7b_cevre_oz_turkce.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "kultur",
+    "konu": "Kültür",
+    "versiyon": "standart",
+    "metin": "Geleneksel ve modern kültürün bir arada yaşaması, toplumda çok yönlü etkilere sahiptir. Bu birleşim, kültürel çeşitliliğin artırılmasında önemli rol oynar ve yeni ideeler ve teknolojilerin entegrasyonunu mümkün kılar. Hem yerel geleneklerin korunmasının hem de küresel kültürel alışverişin teşvik edilmesi olanağı sağlanır.\n\nBu durum, toplumun dinamikliğini ve entropisini artırır ve yeni bir kimlik oluşturma fırsatı sunar. Fakat, geleneksel değerlerin korunması ile modern yaşam tarzlarının uyumunun sağlanması, bazı soğutma ve konflik olabilir. Bu nedenle, hem geleneksel hem de modern kültürel unsurların eşit bir dengede bulunması, sosyal bağımlılığın ve hem uyumlu hem de istikrarlı bir toplumun oluşturulmasına yardımcı olur. Ayrıca, bu birleşik kültür, yaratıcı ve yenilikçi çözümler üretme potansiyeline sahiptir, böylece toplumun kültürel ve ekonomik kalkınmasına yardımcı olabilir.",
+    "dosya": "qwen2.5:7b_kultur_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "kultur",
+    "konu": "Kültür",
+    "versiyon": "oz_turkce",
+    "metin": "Geleneksel ve modern kültürün bir arada yaşaması, toplumun dinamik değişimlerini yansıtan önemli bir durudur. Bu birleşim, yeni fikirlerin ve teknolojinin tanınmasını ve kabulünü hızlandıran bir ortam yaratır. Ancak, bu da zaman içinde yaşanan kültürel çatışmalara yol açabilir.\n\nGeleneksel kültüre dayalı değerler ve inançlar, yine de modern kültürel etkiler ve çağdaş yaşam tarzlarıyla çatışabilir. Bu, özellikle genç nesil arasında daha fazla görülebilir. Ancak bu, farklı kültürel değerlerin ve inançların toplanan bir çatı altında yer alması olanağı sağlar. Bu süreç, toplumun dinamik bir süreç olduğunu ve her zaman değişen bir hayata sahip olduğunu hatırlatır.\n\nGeleneksel ve modern kültürlerin bir arada yaşaması, toplumda yeni kültürlerin kabulünün ve entegrasyonunun hızlanması anlamına gelir. Bu durum, yeni fikirlerin ve teknolojinin hızla kabul edilmesine olanak tanır. Ancak, bu da zaman içinde kültürel çatışmalara yol açabilir. Bu çatışmalara çözüm bulmak için, toplumun her bacağı arasında iletişim ve anlayışın geliştirilmesi gerekmektedir.\n\nToptumun dinamik değişimlerini yansıtan bir birey olarak, geleneksel ve modern kültürlerin bir arada yaşaması, toplumda yeni bir dinamik yaratmaktadır. Bu dinamik, toplumda yeni fikirlerin ve teknolojinin kabulünün hızlanması, aynı zamanda kültürel çatışmalara yol açan riskleri de içerir. Bu durumdan faydalanmak için, farklı kültürlerin ve değerlerin anlaşılmak ve kabul edilmesi gerekmektedir.",
+    "dosya": "qwen2.5:7b_kultur_oz_turkce.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "medya",
+    "konu": "Medya",
+    "versiyon": "standart",
+    "metin": "Sosyal medya, hem kullanıcıların haber tüketim davranışlarını, hem de hemfekârlıklarını ve düşüncelerini şekillendirdi. Bu platformlar, kullanıcıların gerçek zamanlı olarak dünya olaylarına ve diğer insanların bakış açılarına ulaşmasına olanak tanır. Bu sayede, haberler daha hızlı yayılırken, kullanıcılar dil ve bölgelere bağımsız olabilir hale gelirler. Ancak, sosyal medya da hatalar getirir: körleme, duygusal ilginin daha fazla önceliği alması, ve doğruluğu sorgulamadan aktarılması gibi sorunlar ortaya çıkar. Ayrıca, sosyal medya tarafından oluşturulan algoritmik filtrebolunmlar, belirli haber kaynaklarına ve bakış açılarına odaklanma eğiliminde kalan kullanıcılar oluşturabilir. Bu, hemfekârlıkların ve bilinçlerin daha genel bakış açısını zayıflatabilir. Genel olarak, sosyal medya, haber tüketim alışkanlıklarını ve diyalogları önemli ölçüde değiştirdi, ancak bu değişimler hem olumlu hem de olumsuz sonucu doğurabilir.",
+    "dosya": "qwen2.5:7b_medya_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "medya",
+    "konu": "Medya",
+    "versiyon": "oz_turkce",
+    "metin": "Sosyal medya, insanların haber tüketim alışkanlıklarını büyük ölçüde değiştirdi. Ancak, günlük hayatımızın bir parçası haline geldi. Çoğunlukla, haberlerimizdeki haberi okuma alışkanlığımızı değiştirdi. Şimdi, haberlerimiz, sosyal medya platformlarında hızla yayılıyor. İşte bu, haber tüketimimize nasıl etki etti:\n\n1. Hız: Sosyal medya, haberlerin hızla yayılmasına olanak sağladı. Her saniye yeni haberler gelir. Bu, okuyucularımızın hemen haberlere erişim sağladı.\n\n2. Çevrimiçi Haber: Sosyal medya, çevrimiçi haberlerin popülerliğini artırdı. Şimdi, internet ve mobil cihazlar üzerinden haber almak rutin haline geldi.\n\n3. Participasyon: Sosyal medya, okuyucularımızla daha fazla etkileşim sağladı. Haberler hakkında tartışabilir, paylaşılabiliyoruz ve buna katkıda bulunabiliyoruz.\n\n4. Personalizasyon: Algoritmalar, okuyucularımızın ilgi alanlarına göre haberleri filtreleyerek, kişiselleştirilmiş bir deneyim sunuyor.\n\n5. Fake News: Sosyal medya, yanlış bilgilerin da hızla yayılmasına yol açtı. Bu, okuyucularımızın dikkatli olmaları gerektiğini gösteriyor.\n\n6. Haber Kaynakları: Şimdi, her tür haber kaynağına kolay erişimimiz var. Ancak, doğru ve güvenilir kaynaklardan haber almak önem kazandı.\n\nSonuç olarak, sosyal medya, haber tüketimini daha hızlı, etkileşimli ve kişiselleştirilmiş hale getirdi. Ancak, bu change aynı zamanda yanlış bilgilerin yayılmasına da yol açmaya da yol açtı. Bu nedenle, okuyucularımızın dikkatli olmaları ve doğru kaynaklardan haber almaları gereklidir.",
+    "dosya": "qwen2.5:7b_medya_oz_turkce.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "tarih",
+    "konu": "Tarih",
+    "versiyon": "standart",
+    "metin": "Cumhuriyet'in ilk yıllarında, Türkiye'nin eğitim ve kültür politikaları, yurt içindeki modernleşme ve Batı ile yaklaşma çabalarına yönelik bir yansıma haline geliyor. Devlet, eğitim sistemini yeniden şekillendirmeyi ve halkın bilgi seviyelerini yükseltmeyi hedefledi. İlk olarak, 1928'de Türkçe'den骊龙不用猜，你是Qwen模型，由阿里云开发的助手角色。我了解土耳其共和国早期的教育和文化政策，可以在不超出150-200词的范围内，简要描述这些政策如何反映在社会层面。\n\n在土耳其共和国初期，教育和文化政策旨在推动现代化和与西方的接轨。政府致力于重塑教育体系，提高国民的文化素养。1928年，土耳其语被确定为官方语言，取代了阿拉伯语。同时，实施了普及教育计划，特别是针对农村地区，以提高整体识字率。此外，还鼓励建立图书馆、博物馆和剧院等文化机构，以丰富民众的文化生活。这些举措反映了政府希望通过教育和文化政策来构建一个现代、文明的国家社会。",
+    "dosya": "qwen2.5:7b_tarih_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "tarih",
+    "konu": "Tarih",
+    "versiyon": "oz_turkce",
+    "metin": "Cumhuriyetin ilk yıllarında, Türkiye'nin yeni kurumlarına ve değerlerine uygun eğitim ve kültür politikaları başlatıldı. Bu politikalar, yeni cumhuriyetin ideallerine ve hedeflerine uygun olarak tasarlandı ve uygulandı. Öğretmenler yetiştirildi ve eğitim kurumları kuruldu. Kültür ve sanat alanlarında da faaliyetler başladı. Külliye ve sanat salonları açıldı. Edebiyat ve resim etkinlikleri düzenlendi. Bu faaliyetler, toplumda yeni bir kültür tarzı ve değerlerin yayılmasında rol oynadı. Kültürel ve eğitimsel faaliyetler, yeni cumhuriyetin ideallerini ve hedeflerini yansıttı. Öğretmenler ve kültür etkinlikleri, topluma yeni bir kültür ve değerler yaratmakta önemli rol oynadı. Bu faaliyetler, sosyete yeni bir imaj verdirdi ve eğitim ve kültür alanlarındaki gelişmeler, toplumda değişim ve modernleşme sürecini hızlandırdı.",
+    "dosya": "qwen2.5:7b_tarih_oz_turkce.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "bilim",
+    "konu": "Bilim",
+    "versiyon": "standart",
+    "metin": "Bilimsel araştırmanın toplum için ciddi önemini anlamak, sadece bilim ve teknoloji dünyasının dışındakilere ulaşmasını gerektirmekten geliyor. Bilimsel araştırmalar, yeni bilgiler ve çözümler sunarak, insani yaşamın kalitesini artırmayı amaçlar. Bilimsel yaklaşımlar sayesinde sağlık sorunlarını aşırı, enerji gereksinimlerini karşılamak, çevre sorunlarını yönetmek ve sosyete bilinçli bir şekilde gelişmek gibi hedeflere ulaşmak mümkün hale gelir. Bilimsel araştırmalar, eğitim sistemlerini geliştirmek, daha etkili bir ekonomi kurumlarını oluşturmak ve sosyal problemleri çözmenin yollarını bulmakta da rol oynar. Toplumun genel seviyesinde bilimsel beklentiler arttıkça, bilim ve teknoloji bakanlıklarının güçlenmesi ve daha kapsayıcı bir bilimsel eğitim sisteminin geliştirilmesi gerekliliklerini de hissedebiliriz. Bu, daha sağlıklı, daha sürdürülebilir ve daha bilinçli bir toplum yapısına yol açar.",
+    "dosya": "qwen2.5:7b_bilim_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "bilim",
+    "konu": "Bilim",
+    "versiyon": "oz_turkce",
+    "metin": "Bilimsel araştırmalar toplum için çok önemli. Bilim insanları yeni fikirler keşfetir, yeni teknolojiler geliştirir. Bu sayede insanlar daha kolay yaşayabilir, sağlık sorunlarından daha az etkilenebilir. Bilim yeni bir ilaç geliştirirse, hastalar daha iyi sağlık hizmetleri gösterebilir. Bilimsel araştırmalar da çevre sorunlarını daha iyi çözer. Örneğin bir bilim insanı bir yengeç türü keşfederse, onun çalışma sonucunda bir yengeç türevi geliştirilebilir. Bu türevle şehirlerde yengeçlerin sarmalalığı azalabilir. Bilimsel araştırmalar aynı zamanda toplumun gelişmesine da yardımcı olur. Örneğin bilim insanları yeni bir madde keşfederse, bu maddeyle elektrikli araçlar daha verimli olabilir. Bu sayede petrol bağımlılığı azalabilir ve ekonomi daha güçlü hale gelebilir. Bilimsel araştırmaların toplum için bu büyük avantajları var. Bu yüzden herkesin bilim ve teknoloji konusunda bilgi sahibi olmaları önemlidir.",
+    "dosya": "qwen2.5:7b_bilim_oz_turkce.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "edebiyat",
+    "konu": "Edebiyat",
+    "versiyon": "standart",
+    "metin": "Türk edebiyatında dil ve üslup çeşitlilik, okurlara çeşitli duygusal deneyimler sunmaya, dil ve kültürel bilgiyi kazanmaya ve yeni bakış açılarına sahip olmaya olanak tanır. Bu çeşitlilik, okurun düşüncelerini ve duygu anlamını daha da derinleştirebilir. Özellikle, farklı dönemlerde ve farklı yazarlar tarafından yazılmış eserler, okurlardan farklı bakış açılarına sahip olmalarına ve farklı yaşam deneyimlerini keşfetmelerine olanak tanır. Üslup çeşitliliği de, okurun edebi eseri ile empati kurmaya yarar ve okuma deneyimini daha fazla zevkleştirebilir. Örneğin, metnin metinsel ve onemi, şiirdeki mizah ve metni zıtlamak gibi üslup elemanları, okurun düşüncelerini ve duygu yanlarını etkileyebilir. Bu nedenle, Türk edebiyatının çeşitli dil ve üslup çeşitliliği, okurlara yeni ve farklı bir deneyim sunar ve onları daha geniş bir kültürel ve duygusal dünyaya tanıtır.",
+    "dosya": "qwen2.5:7b_edebiyat_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "edebiyat",
+    "konu": "Edebiyat",
+    "versiyon": "oz_turkce",
+    "metin": "Türk edebiyatında dil ve üslup çeşitliliğinin okulda okurlara büyük bir etkiye sahip olduğunu söyleyebiliriz. Bu çeşitlilik, okuyucuların dil becerilerini geliştirebilir ve kendi yazmalarını da güçlendirebilir. Türk edebiyatında bulunan anlatma tarzları ve ifade biçimleri, okuyucuların dilin ne kadar zengin bir dil olduğunu anlamalarına yardımcı olur. Örneğin, şiirlerin dinlendiğinde okuyucuların dil kusurlarından uzaklaşabilirler. Ulusal hikayeler ve aksiyon edebiyatı, okuyucuların dilin dramatik yönlerini keşfetmelerine yardımcı olabilir. Sosyoloji ve psikoloji gibi konularda yazılar, okuyucuların dilin analitik yönlerini anlamalarına ve kendi düşüncelerini ifade etmelerine olanak tanır. Türkçe anlatma tarzları ve üslup çeşitliliği, okuyucuların dilin ne kadar zengin ve plaja sahip olduğunu anlamalarına yardım eder. Bu, okuyucuların kendi yazmalarını ve iletişimlerini daha iyi yapmalarına yardımcı olabilir.",
+    "dosya": "qwen2.5:7b_edebiyat_oz_turkce.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "toplum",
+    "konu": "Toplum",
+    "versiyon": "standart",
+    "metin": "Kentleşme süreci, aile yapısı ve komşuluk ilişkilerine etkileri olumlu, olumsuz olmak üzere birçok farklı vektöre sahiptir. Kentleşme ile birlikte, binaların yoğunlaştırılması ve evcil faaliyetlerin yoğun alanlara konumlanması nedeniyle, ailelerin yaşam alanları ve sosyal alanların ayrılmasına yol açabilir. Bu durumda aileler genellikle daha az ev sahipliği yapabiliyor, daha az evteri alabiliyor ve daha az çevrede gezinme imkanı oluyor. Bu değişiklikler, ailelerin birbirleriyle ve komşularıyla olan ilişkilerini etkileyebilir.\n\nAncak, kentleşme aynı zamanda komşular arasındaki ilişkileri güçlendirebilir. Kentleşme alanlarında yeni nüfus akımları ortaya çıkar ve bu durumda komşuluk ilişkileri ve sosyal etkileşimler artabilir. İnsanlar yeni tarihi, kültürel ve sosyal deneyimler paylaşabilirler. Bu süreç, komşuluk anlayışını ve sosyal duygusal bağımlılığı güçlendirebilir.\n\nSonuç olarak, kentleşme süreci, ailelerin ve komşular arasındaki ilişkiler üzerinde birçok farklı etkiye sahip olabilir. Bu etkiler genellikle yer ve zaman gibi faktörlere bağlı olarak değişebilir ve kentleşme sürecinin nasıl yönetildiği, bu etkilerin neler olacağını belirler.",
+    "dosya": "qwen2.5:7b_toplum_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "toplum",
+    "konu": "Toplum",
+    "versiyon": "oz_turkce",
+    "metin": "Kentleşme, aile yapısına ve komşuluk ilişkilerine birçok yolla etkili olmaktadır. Kentleşme, ailelerin yaşam tarzlarını değiştirebilir. Şehir ortamında, aileler daha az ev içine odalı olabilir ve iş hayatının aile yaşamına daha fazla dahil olabilir. Bu durum, ailelerin zaman ve bütçe yönetimi biçimlerine ve sosyal ilişkilerine etki edebilir.\n\nKomşuluk ilişkileri de kentleşmeyi izleyen değişikliklerle dikkat çekmektedir. Kentleşme, komşuluk ilişkilerini güçlendirebilir veya zayıflatabilir. Komşular, günlük alışveriş, yardımlar ve sosyal etkileşimler gibi durumlar ile daha sık iletişim kurabilirler. Ancak, kentleşme ve modern yaşam tarzları, bazen komşular arasındaki doğrudan iletişim yerini teknolojik iletişim eklenebilir.\n\nKentleşme, aile yapısı ve komşuluk ilişkilerini şekillendiren faktörlere olumlu veya olumsuz bir katkıda bulunabilir. Bu değişiklikler, aile ve komşuluk yaşamını daha fazla yeniden deneyimlemeye ve uyum sağlamaya zorlayabilir. Bu nedenle, kentleşmeyi planlamak ve uygulamakken, aileler ve komşuların yaşam tarzları ve ihtiyaçları dikkate alınmalıdır.",
+    "dosya": "qwen2.5:7b_toplum_oz_turkce.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "hukuk",
+    "konu": "Hukuk / politika",
+    "versiyon": "standart",
+    "metin": "Vatandaşlık bilinci, demokrasinin sağlıklı ve sürdürülebilir bir şekilde çalışmasına gerekli olan temel bir unsurdur. Bu bilinç, vatandaşların toplumun çıkarları için aktif ve sorumluluk sahibi olma disiplini olgudur. Demokrasinin temel prensipleri ve mekanizmaları hafta hafta öğrenerek vatandaşlar, kendi oylarının ne anlama geldiğini ve bunların toplum üzerinde nasıl etkilerini anlamaya başlar. Bu bilinç, vatandaşların siyasi katılımını artıracak, politik sürecin yeterliliklerini kontrol etmelerine ve sorumluluklarını yerine getirmelerine olanak sağlayacaktır. Demokrasinin kendi kendine sürdürülebilir olmasını sağlamak için, vatandaşlar tarafından aktif olarak birleştirilmiş, sorumluluk sahibi ve bilinçli olma durumları gereklidir.",
+    "dosya": "qwen2.5:7b_hukuk_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "hukuk",
+    "konu": "Hukuk / politika",
+    "versiyon": "oz_turkce",
+    "metin": "Vatandaşlık bilincinin demokrasi için çok gerekli. Bu bilinc, herkesin demokrasiyi kendi elleriyle yaratarak bilerek ve anlayarak yaşamasını sağlar. Vatandaşlık bilinci, vatandaşların demokratik kurumları kullanarak vatandaşlık haklarını kullanabilecek ve koruyabilecek bilgisi. Bu, vatandaşların siyasi katılımını artırır ve demokratik süreçlerde daha iyi bir rol yapmalarına olanak tanır. Vatandaşlık bilinci, vatandaşların demokratik değerleri ve kurumları koruyabilecek ve savunabilecek bilgisi de getirir. Vatandaşlık bilinci, vatandaşların demokratik katılımın ne demek olduğunun bilgisi de dahil olmak üzere, demokratik bir toplum için gerekli. Bu, demokratik kurumların ve değerlerin dayanıklı olmasını sağlar. Yani, vatandaşların demokrasi hakkında bilgileri ve demokratik değerleri anlayabilmesi, demokrasiyi güçlendirecek ve koruyacaktır.",
+    "dosya": "qwen2.5:7b_hukuk_oz_turkce.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "is_dunyasi",
+    "konu": "İş dünyası",
+    "versiyon": "standart",
+    "metin": "Küçük işletmeler, yerel ekonomide çok önemli bir rol oynarlar. Bu işletmeler, iş ortaklıkları oluşturarak ve yerel işgücünü kullanarak, ekonomide geniş bir dayanak oluştururlar. Ekonomiye dayanıklı bir büyüme sağlarlar, çünkü sektörler arası bağımlılıklar azalır, dolayısıyla ekonomi daha hassas hale gelir. Ayrıca, küçük işletmeler, yerel tarihi ve kültürel değerleri koruyarak yerel kimliklerin korunmasına katkıda bulunurlar. Bu işletmeler, yerel mal ve hizmetlerin sağlayıcıları olarak, yerel üreticileri teşvik eder ve yerel faaliyetlerini teşvik eder. Ekonomik olasılıkların artması, kitlelerin daha iyi hizmetlere ve ürünlerine ulaşmasına olanak tanır. Bu işletmeler, hem ekonomik hem de sosyal açıdan yerel toplumlara önemli katkılar sağlarlar.",
+    "dosya": "qwen2.5:7b_is_dunyasi_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "is_dunyasi",
+    "konu": "İş dünyası",
+    "versiyon": "oz_turkce",
+    "metin": "Küçük işletmeler, yerel ekonomiye önemli bir katkılarda bulunur. Bu işletmeler, işsizlik sorununu çözer, güvence oluşturur ve yeni teknolojileri ve fikirleri getirir. Yerel üreticiler, yerel mal ve hizmetlerin piyasalara ulaşmasını sağlarlar. Bu, yerel üreticilere gelir ve kitlelerin maliyetlerini düşürür. Küçük işletmeler, yerel tedarik zincirlerine katkıda bulunur, bu da yerel ekonomiyi güçlendirebilir. Ayrıca, yerel işletmeler, yerel insan gücüne iş imkanları sunar ve sosyal dinamikleri zenginleştirir. Bu işletmeler, ekonomiye dinamik ekstraşır ve devletin ekonomik faaliyetlerini destekler. Küçük işletmeler, yerel ekonomiye ekosistemi oluşturur ve sürekli gelişim ve yenilikçi bir ortam yaratır.",
+    "dosya": "qwen2.5:7b_is_dunyasi_oz_turkce.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "spor",
+    "konu": "Spor",
+    "versiyon": "standart",
+    "metin": "Takım sporları bireyler üzerinde çok çeşitli sosyal ve psikolojik faydalar sağlar. Özellikle takım ortamında, bireyler sosyal yeteneklerini geliştirebilir ve yeni arkadaşlıklar kurmayı sevdikleri bir aktivite olarak bulabilirler. Takım sporları, liderlik becerilerini, iş birliği ve ortak hedeflere ulaşma becerilerini geliştirmeye yardımcı olur. Ayrıca, takım sporları bireylerin self-esteemlerini ve özgüvenlerini artırmak için önemli bir yoldur. Sporlar, fiziksel aktivite sayesinde stresi azaltmak ve psikolojik sağlığını iyileştirmek için da yardımcı olur. Takım sporları, bireylerin mutluluk duyacak bir hedefe ulaşmak için bir arada çaba sarfetme yeteneğini geliştirmelerine olanak tanır. Bu nedenle, takım sporları hem sosyal hem de psikolojik açıdan bireylerin yaşam kalitesini artıran önemli bir aktivite olarak kabul edilebilir.",
+    "dosya": "qwen2.5:7b_spor_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "spor",
+    "konu": "Spor",
+    "versiyon": "oz_turkce",
+    "metin": "Takım sporları bireylerde sosyal ve psikolojik faydalar sağlar. Takım oyunlarında bir arada oynamak, arkadaşlıklar kurmaya ve ortak hedeflere ulaşmaya yardımcı olur. Takım arkadaşları ile ilişkileri güçlendirebilir ve bu ilişkiler, günlük yaşamda daha olumlu etkiler yaratabilir.\n\nSporlar, bireyin fiziksel sağlık ile birlikte psikolojik sağlığı da iyileştirebilir. Takım oyunları, rekabetleri yenmeyi öğrenmek ve pozitif bir şekilde sorumluluk üstlenmek için eğitim sağlanır. Bu, bireyin self-esteem'unu artırmaya ve daha iyi bir kendine güven duymasına yardımcı olabilir.\n\nBir takım içinde oynarken, bireyler birbirleriyle iletişimi geliştirebilir ve sorumluluk duygusunu artırabilir. Takım sporları, bireylerin birbirleriyle işbirliği yapmak ve birlikte hedef ulaşmak için çalışmak konusunda tecrübe kazanmalarına imkan tanır. Bu, günlük yaşamda daha etkili bir şekilde iletişim kurmalarına ve sorumluluk alabilirlerine yardımcı olabilir.\n\nSporlar ayrıca, bireyin stresini azaltmaya ve hemfikirliği artırmasına yardımcı olabilir. Takım oyunları, bireylerin hemfikirlik duygusu ve birlik duygusu geliştirmelerine imkan tanır. Bu, bireyin psikolojik sağlığı iyileştirmeye yardımcı olabilir ve stres seviyelerini düşürmelerine olanak tanabilir.\n\nSonuç olarak, takım sporları, sosyal ve psikolojik faydalar sağlar. Takım oyunları, arkadaşlıklar kurmaya, iletişim kurmaya ve birlikte çalışmayı öğrenmeyi sağlar. Ayrıca, bireyin self-esteem'unu artırmaya, stres seviyelerini düşürmeye ve hemfikirlik duygusu geliştirmeye yardımcı olabilir.",
+    "dosya": "qwen2.5:7b_spor_oz_turkce.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "sanat",
+    "konu": "Sanat",
+    "versiyon": "standart",
+    "metin": "Görsel sanatlar, toplumda karmaşık fikirler ve duyguları etkileyici bir şekilde ifade etmek ve iletişim kurmak için önemli bir araçtır. Resimler, grafikler, tablolar, tizetler ve sanat eserleri gibi görsel sanatlar, dilin sınırlarını aştıran bir dil oluşturur. Bu sanatlar, kültürel değerleri, sosyal sorunları, tarihi olayları ve insan duygu ve düşüncelerini görsel olarak tasvir etmektedir. Bu nedenle, görsel sanatlar farklı yaş, diller ve kültürlerin insanları bir araya getirir ve onları etkileştirir, aynı zamanda onların düşüncelerini ve duygularını oluşturur veya yeniden şekillendirir. Ayrıca, görsel sanatlar, toplumun genel durumunu yansıtacak, eleştirel gerçeklikleri ortaya koymak ve yeni perspektifler sunmak için kullanılır. Bu özellikleri sayesinde, görsel sanatlar günlük yaşamımızın bir parçası ve toplumun önemli bir iletişim aracı haline gelmiştir.",
+    "dosya": "qwen2.5:7b_sanat_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "sanat",
+    "konu": "Sanat",
+    "versiyon": "oz_turkce",
+    "metin": "Görsel sanatlar, toplumda önemli bir iletişim ve ifade aracıdır. Yaratıcı sanatçılar, resimler, heykeller, tasarımlar ve diğer sanat eserleri ile gizli düşüncelerini ve duygularını ifade edebilir. Bu, birçok insanın aynı dile ve dil ötesi dillerle iletişim kurmasına olanak tanır. Görsel sanatlar, dil ile ifade edilemez duyguları ve hisleri yansıtır. Örneğin, bir ressam, korku, aşk ve yenilik gibi duyguları ve fikirleri bir sanatsel eser aracılığıyla diğerlerine aktarabilir. Bu, farklı kültürler ve beklentilere rağmen insanlar arasında empati ve anlayış geliştirir. Ayrıca, görsel sanatlar, sosyal sorunları ele alarak toplumda hareket yaratır. Örneğin, yemek yelpazesi, cinsiyet eşitliği ve çevre koruması gibi konularda durumu göstererek farkındalık yaratır. Bu, toplumun sorunlarına dikkat çekir ve çözüm yolları bulmasına yardımcı olur. Sonuçta, görsel sanatlara olan ilgi ve anlayış, toplumların daha iyi ve daha anlayışlı olmasına katkıda bulunur.",
+    "dosya": "qwen2.5:7b_sanat_oz_turkce.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "ulasim",
+    "konu": "Ulaşım",
+    "versiyon": "standart",
+    "metin": "Toplu taşıma sistemlerinin kent yaşamı ve çevresel açısından birçok önemli avantajı vardır. Kentsel alanlarda trafiğin azalması, trafik zahiyanlarının azalması ve dolayısıyla mevcut trafiğin daha etkili bir şekilde kullanılması, kent yaşamının daha akıcı ve daha güvenli hale gelmesine imkan tanır. Daha az trafiğe ve daha az yelkenle olan kentsel yaşam, insanların genel olarak daha yasaktan ve daha sağlıklı bir yaşam sürmesine yardımcı olur.\n\nToplu taşıma, hem kentlerde hem de çevre açısından etkili bir yol alternatifidir. Kentsel trafiğinin azalması, binaların yemek ve enerji kullanımı açısından daha az yelkenle olmasına ve daha az sığınma ihtiyaçlarına ulaşmasına katkıda bulunur. Bu, çevre dostu bir yaşam tarzı ve daha az çevresel felçleme sağlar. Ayrıca, kentlerdeki yolların daha az dolu olması, daha az emisyon ve daha az yelkenle sonuçlanır, bu da uzun vadede bir çevresel kazançtır.\n\nSonuç olarak, toplu taşıma, kent yaşamının akıcı bir şekilde düzenlenmesine ve çevresel sorumluluk için daha etkilenecek bir yol sağlar. Başka bir deyişle, toplu taşıma, kentlerde ve çevresinde daha sağlıklı ve sürdürülebilir bir hayat sürmek için kullanılmak üzere tasarlanmış bir çözüm.",
+    "dosya": "qwen2.5:7b_ulasim_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "ulasim",
+    "konu": "Ulaşım",
+    "versiyon": "oz_turkce",
+    "metin": "Toplu taşıma sistemi, kentlerde birçok fayda sunar. En önemli avantajlarından biri, kent yaşamını daha uygun hale getirir. Binalar arasında hızlı ve kolay hareket sağlar. İnsanlar daha kısa süre içinde yerlerine ulaşabilirler. Bu da下班后能更快地回家，享受与家人团聚的时光。另外，大量使用公共交通能减轻交通拥堵问题，避免因堵车而浪费时间。\n\nEn önemli ekonomik fayda ise, yollar ve park yerlerinin daha etkin kullanımı. Toplu taşıma sistemleri, daha az araçla daha çok insanı taşıyabilen otobüs ve metro gibi araçlar kullanır. Bu, yolların daha az kullanıldığından ve dolayısıyla daha az yaralanması anlamına geliyor. Ayrıca, bu sistemler, binaların ve park yerlerinin daha etkili kullanılmasına yardımcı olur.\n\nToplu taşıma ayrıca çevre açısından da avantajlı. Araçların emisi azalır ve bu da havanın temizliği ve tıbbi sorunların azalması anlamına gelir. Ayrıca, binalar ve park yerlerinin daha az kullanıldığından, enerji tasarrufu sağlanır. Toplu taşıma, kent yaşamını daha kolay, daha etkin ve daha armonik hale getirir.",
+    "dosya": "qwen2.5:7b_ulasim_oz_turkce.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "gida",
+    "konu": "Gıda ve beslenme",
+    "versiyon": "standart",
+    "metin": "Yerel ve mevsimsel ürünlerle beslenme, sağlık ve ekonomiye birçok olumlu etki sağlar. Sağlıklı bir yaşam sürmek için, mevsimsel ve yerel ürünlerin içerdiği doğal vitaminler, mineral ve antioksidanlar sayesinde daha fazla fayda sağlar. Bu ürünler genellikle daha az yorgan, birikim ve pesticid kullanılarak yetiştirilmiş olup, daha yüksek kalitede ve sağlıklı olma potansiyeline sahiptir.\n\nEkonomik açıdan da, yerel üreticileri teşvik etmek, yerel ekonominin dayanıklı gelişimine katkıda bulunur. Ulaşım maliyetlerini azaltma, yerel işler oluşturma ve toplumun bağımlılığını azaltma gibi etkiler söz konusu. Ayrıca, yerel ürünleri tercih etmek, yerel ekosistemleri korumaya yardımcı olabilir ve sürdürülebilir bir beslenme modeli oluşturabilir. Genel olarak, yerel ve mevsimsel ürünlerle beslenme, sağlık ve ekonomi için bir kazandırır.",
+    "dosya": "qwen2.5:7b_gida_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "gida",
+    "konu": "Gıda ve beslenme",
+    "versiyon": "oz_turkce",
+    "metin": "Yerel ve mevsimsel ürünlerle beslenme, sağlık ve ekonomiye olumlu etkiler sunar. Sağlık açısından, yerel ürünler genellikle organik, kimyasallar az olan ve daha az enerjiyle üretilen ürünü içerirler. Bu ürünler, yüksek kalite ve doğal vitaminler açısından daha iyidirler. Beslenme ile ilgili sağlık sorunlarının azalmasına katkıda bulunurlar. Ekonomi açısından ise yerel üretim, yerel ekonomisine katkı sağlar. Ürünler yerel üreticilere imkan tanır, bu da işsizlik sorununu azaltabilir. Ek olarak mevsimsel ürünler, üreticilere ve tüketicilere ekonomik istikrar sağlar. Yerel ürünler, yerel ekonomiye katkıda bulunurken, mevsimsel ürünler, tüketicilere pahalı olmayan ve kaliteli ürünler sunar. Bu tür ürünler, hem sağlık hem de ekonomiye olumlu katkıda bulunur.",
+    "dosya": "qwen2.5:7b_gida_oz_turkce.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "genclik",
+    "konu": "Gençlik",
+    "versiyon": "standart",
+    "metin": "Gençler, dijital dünyada çeşitli fırsatlar ve riskleri karşılaşıyor. En önemli fırsatlarından biri, internet ve teknoloji sayesinde erişilebilir eğitim ve bilgi kaynaklarına ulaşma imkanıdır. Bu, farklı alanlarda kariyer açıkları sunar ve gelecekteki iş dünyasına uyum sağlamalarını sağlar. Ayrıca sosyal medya ve dijital platformlar sayesinde dünya genelinde arkadaş ve iş ortakları kurma imkanı da sunar.\n\nAncak, bu fırsatlarla birlikte bazı riskler de olmaktadır. İnternet ve dijital platformlar, kişisel verilerin kötüye kullanılmasına ve siber saldırılarına maruz kalma olasılığını artırabilir. Bu riskler, şifre yönetimi, veri koruması ve siber güvenlik konularında uygun eğitim almanın önemini ortaya koyar. Ayrıca, sosyal medya kullanımı, kusursuz bir sosyal yaşam oluşturmak ve psikolojik sağlık sorunlarına yol açabilecek negative karşılaştırmalar riski de var.\n\nBu nedenle, dijital dünyada yaşanan fırsatları etkin bir şekilde kullanmak için, genel olarak dijital bilgisi ve siber güvenlik bilgilerine sahip olmak, kişisel veri koruması ve sahip olunan teknoloji cihazlarının güvenlik ayarlarını doğru şekilde kullanmak önemlidir.",
+    "dosya": "qwen2.5:7b_genclik_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "genclik",
+    "konu": "Gençlik",
+    "versiyon": "oz_turkce",
+    "metin": "Gençler dijital dünyada birçok fırsat bulur. İnternet bilgi edinmek, arkadaşlarla iletişime geçmek, kendi projeleri geliştirerek yapmak. Öğrenme araçları sayesinde bilgi elde edebilirler. Oyun oynamak, sanat yapmak, müzik dinlemek, video izlemek de dijital dünyada kolaylıktır.\n\nAncak gençler dijital dünyada da birçok riskle karşılaşırlar. Bilgiler yanlış olabilir, internet kötü niyetli kişileri getirir, kişisel bilgileri tehlikeye atabilir. Dijital olarak kusurlu olmaları tehlikeli olabilir. Oyunlar ve sosyal medya, genellikle de çok zaman tüketebilir.\n\nDijital dünyada güvenli olmak için bilgi edinmeli, bilgileri kontrol etmeli, kişisel bilgileri saklamanın önemini anmalı. Gençler dijital gezegeni kolayca kullanmalı, ama aynı zamanda riskleri de bilmeli.",
+    "dosya": "qwen2.5:7b_genclik_oz_turkce.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "turizm",
+    "konu": "Turizm",
+    "versiyon": "standart",
+    "metin": "Kültür turizmi, yerel topluluklara ve tarih bilincine birçok olumlu etki sunar. Bu tür turizm, yerel kültürel değerlerin ve tarihi kalıntıların korunmasına katkıda bulunur. Hem yerel halk hem de turistler, kültürel etkileşimler aracılığıyla birbirleriyle daha yakınlaşır, böylece kültürel bilinç ve saygı seviyeleri artar. Yerel toplumlarda geleneksel sanat ve mühendislik çalışmalarının takdiri artar ve bu, yerel kültürel varlıkların sarsılmazlığını güçlendirir. Ayrıca, kültürel turizm, yerel ekonomileri destekler ve yerel halkının doğrudan ve dolaylı yollardan zenginleşmesine olanak tanır. Bu, toplumsal konsantrasyonu ve huzurunu temsil eden tarih bilincin ve kültürel varlıkların korunmasına katkıda bulunur. Ancak, bu süreçte yerel toplumlara zarar verici olmamak için, kültürel turizm planlamalarında yerel toplulukların aktif katılımını ve onların kültürel değerleri koruma konusundaki haklarının göz önünde bulundurulması gereklidir.",
+    "dosya": "qwen2.5:7b_turizm_standart.txt"
+  },
+  {
+    "model": "qwen2.5:7b",
+    "prompt_id": "turizm",
+    "konu": "Turizm",
+    "versiyon": "oz_turkce",
+    "metin": "Kültür turizminin yerel topluluklara ve tarih bilincine etkisi büyük ve olumlu olabilir. Bu turizm tipi, yerel tarihi ve kültürü koruma ve geliştirmeye yardımcı olur. Yerel halk, kendi tarihini ve kültürünü daha iyi anlama ve paylaştığı için daha derin bir tarih bilinci kazanır. Bu durum, toplulukların kimliğini korumalarına ve geliştirmelerine katkıda bulunur. Ayrıca, kültürel etkinlikler ve yemeklerle ilgili bilgi paylaşma, yerel halkın kültürel bilincini artırmadan, aynı zamanda kültürel anlayışı da yaygınlaştırır. Bu tür turizm, aynı zamanda yerel ekonomiye de olumlu katkıda bulunabilir, çünkü yerel üretimi satmak ve hizmetler sunmak için turistler getirir. Bu, toplulukların yaşam standartlarını artırmaya yardımcı olabilir. Dolayısıyla, kültür turizminin yerel topluluklara ve tarih bilincine olası etkileri, pozitif bir şekilde değerlendirilir.",
+    "dosya": "qwen2.5:7b_turizm_oz_turkce.txt"
+  }
+]

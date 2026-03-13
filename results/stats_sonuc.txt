@@ -1,0 +1,17 @@
+Öz Türkçe × AI Tespiti — İstatistik Raporu
+==========================================
+
+Eşleşmiş çift sayısı (model × prompt_id): 14
+Standart ortalama AI skoru: 0.8824
+Öz Türkçe ortalama AI skoru: 0.9013
+Fark (öz_turkce - standart): 0.0189
+
+Wilcoxon işaretli sıra testi (standart vs öz_turkce, two-sided):
+  istatistik = 50.0000
+  p-değeri   = 0.9032
+
+Paired t-test (standart vs öz_turkce):
+  t = -0.3297, p = 0.7469
+
+Yorum: p < 0,05 ise standart ile öz türkçe AI skorları arasında istatistiksel fark vardır.
+(Öz Türkçe’de skor daha düşükse dedektör Öz Türkçe metinleri daha az 'AI' olarak işaretliyor.)

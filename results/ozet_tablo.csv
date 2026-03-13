@@ -1,0 +1,3 @@
+model,versiyon,ortalama_oz_turkce_oran,adet,ortalama_ai_skoru
+qwen2.5:7b,oz_turkce,0.0,20,0.9013470666749137
+qwen2.5:7b,standart,0.0,20,0.8824128380843571

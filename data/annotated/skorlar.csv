@@ -1,0 +1,41 @@
+dosya,model,prompt_id,konu,versiyon,oz_turkce_oran,oz_turkce_sayisi,toplam_kelime,stopword_sayisi,ai_skoru
+qwen2.5:7b_dil_devrimi_standart.txt,qwen2.5:7b,dil_devrimi,Dil devrimi,standart,0.0,0,0,0,0.9881554841995239
+qwen2.5:7b_dil_devrimi_oz_turkce.txt,qwen2.5:7b,dil_devrimi,Dil devrimi,oz_turkce,0.0,0,0,0,0.9993990659713745
+qwen2.5:7b_ekonomi_standart.txt,qwen2.5:7b,ekonomi,Ekonomi,standart,0.0,0,0,0,0.8354380130767822
+qwen2.5:7b_ekonomi_oz_turkce.txt,qwen2.5:7b,ekonomi,Ekonomi,oz_turkce,0.0,0,0,0,0.9957789182662964
+qwen2.5:7b_egitim_standart.txt,qwen2.5:7b,egitim,Eğitim,standart,0.0,0,0,0,0.9622058868408203
+qwen2.5:7b_egitim_oz_turkce.txt,qwen2.5:7b,egitim,Eğitim,oz_turkce,0.0,0,0,0,0.7602906227111816
+qwen2.5:7b_teknoloji_standart.txt,qwen2.5:7b,teknoloji,Teknoloji,standart,0.0,0,0,0,0.8853751420974731
+qwen2.5:7b_teknoloji_oz_turkce.txt,qwen2.5:7b,teknoloji,Teknoloji,oz_turkce,0.0,0,0,0,0.576357901096344
+qwen2.5:7b_saglik_standart.txt,qwen2.5:7b,saglik,Sağlık,standart,0.0,0,0,0,0.9952902793884277
+qwen2.5:7b_saglik_oz_turkce.txt,qwen2.5:7b,saglik,Sağlık,oz_turkce,0.0,0,0,0,0.9222893118858337
+qwen2.5:7b_cevre_standart.txt,qwen2.5:7b,cevre,Çevre,standart,0.0,0,0,0,0.651197075843811
+qwen2.5:7b_cevre_oz_turkce.txt,qwen2.5:7b,cevre,Çevre,oz_turkce,0.0,0,0,0,0.9813692569732666
+qwen2.5:7b_kultur_standart.txt,qwen2.5:7b,kultur,Kültür,standart,0.0,0,0,0,0.5029590725898743
+qwen2.5:7b_kultur_oz_turkce.txt,qwen2.5:7b,kultur,Kültür,oz_turkce,0.0,0,0,0,0.9914016127586365
+qwen2.5:7b_medya_standart.txt,qwen2.5:7b,medya,Medya,standart,0.0,0,0,0,0.9974350333213806
+qwen2.5:7b_medya_oz_turkce.txt,qwen2.5:7b,medya,Medya,oz_turkce,0.0,0,0,0,0.9970229268074036
+qwen2.5:7b_tarih_standart.txt,qwen2.5:7b,tarih,Tarih,standart,0.0,0,0,0,0.9788525700569153
+qwen2.5:7b_tarih_oz_turkce.txt,qwen2.5:7b,tarih,Tarih,oz_turkce,0.0,0,0,0,0.9584375619888306
+qwen2.5:7b_bilim_standart.txt,qwen2.5:7b,bilim,Bilim,standart,0.0,0,0,0,0.9796885848045349
+qwen2.5:7b_bilim_oz_turkce.txt,qwen2.5:7b,bilim,Bilim,oz_turkce,0.0,0,0,0,0.9979773163795471
+qwen2.5:7b_edebiyat_standart.txt,qwen2.5:7b,edebiyat,Edebiyat,standart,0.0,0,0,0,0.9974887371063232
+qwen2.5:7b_edebiyat_oz_turkce.txt,qwen2.5:7b,edebiyat,Edebiyat,oz_turkce,0.0,0,0,0,0.9697787165641785
+qwen2.5:7b_toplum_standart.txt,qwen2.5:7b,toplum,Toplum,standart,0.0,0,0,0,0.9613642692565918
+qwen2.5:7b_toplum_oz_turkce.txt,qwen2.5:7b,toplum,Toplum,oz_turkce,0.0,0,0,0,0.9987516403198242
+qwen2.5:7b_hukuk_standart.txt,qwen2.5:7b,hukuk,Hukuk / politika,standart,0.0,0,0,0,0.6440548300743103
+qwen2.5:7b_hukuk_oz_turkce.txt,qwen2.5:7b,hukuk,Hukuk / politika,oz_turkce,0.0,0,0,0,0.7652246952056885
+qwen2.5:7b_is_dunyasi_standart.txt,qwen2.5:7b,is_dunyasi,İş dünyası,standart,0.0,0,0,0,0.974274754524231
+qwen2.5:7b_is_dunyasi_oz_turkce.txt,qwen2.5:7b,is_dunyasi,İş dünyası,oz_turkce,0.0,0,0,0,0.7047793865203857
+qwen2.5:7b_spor_standart.txt,qwen2.5:7b,spor,Spor,standart,0.0,0,0,0,
+qwen2.5:7b_spor_oz_turkce.txt,qwen2.5:7b,spor,Spor,oz_turkce,0.0,0,0,0,
+qwen2.5:7b_sanat_standart.txt,qwen2.5:7b,sanat,Sanat,standart,0.0,0,0,0,
+qwen2.5:7b_sanat_oz_turkce.txt,qwen2.5:7b,sanat,Sanat,oz_turkce,0.0,0,0,0,
+qwen2.5:7b_ulasim_standart.txt,qwen2.5:7b,ulasim,Ulaşım,standart,0.0,0,0,0,
+qwen2.5:7b_ulasim_oz_turkce.txt,qwen2.5:7b,ulasim,Ulaşım,oz_turkce,0.0,0,0,0,
+qwen2.5:7b_gida_standart.txt,qwen2.5:7b,gida,Gıda ve beslenme,standart,0.0,0,0,0,
+qwen2.5:7b_gida_oz_turkce.txt,qwen2.5:7b,gida,Gıda ve beslenme,oz_turkce,0.0,0,0,0,
+qwen2.5:7b_genclik_standart.txt,qwen2.5:7b,genclik,Gençlik,standart,0.0,0,0,0,
+qwen2.5:7b_genclik_oz_turkce.txt,qwen2.5:7b,genclik,Gençlik,oz_turkce,0.0,0,0,0,
+qwen2.5:7b_turizm_standart.txt,qwen2.5:7b,turizm,Turizm,standart,0.0,0,0,0,
+qwen2.5:7b_turizm_oz_turkce.txt,qwen2.5:7b,turizm,Turizm,oz_turkce,0.0,0,0,0,
